@@ -1,1 +1,1 @@
-# Water-Trap-with-Python
+In Water Trap, we are looking to calculate the volume of water trapped between the elevations of the land. You are given n integers representing the heights of these elevations, and you need to compute the volume of water that is trapped between them.
